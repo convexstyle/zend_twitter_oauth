@@ -63,7 +63,7 @@ $twitterData = $response->toValue();
 ### Before start
 1. Log in [Twitter](https://dev.twitter.com/) and register your application.
 
-2. Copy and paste your **consumer key** and **consumer secret** to **oauth.consumerKey** and **oauth.consumerSecret** in app.ini. (_application/configs/app.ini).
+2. Rname _application/configs/app-sample.ini to _application/configs/app.ini and copy and paste your **consumer key** and **consumer secret** to **oauth.consumerKey** and **oauth.consumerSecret** in app.ini. (_application/configs/app.ini).
 
 3. Assign a callback URL in the Settings Tab and copy and paste it to **oauth.redirectUrl** in app.ini. See [here](http://www.convexstyle.com/github/create_callbackBack.png "The image of creating callback URL")
 
