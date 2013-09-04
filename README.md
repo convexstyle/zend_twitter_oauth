@@ -1,4 +1,4 @@
-This is the simple examples to retrieve user time line data (user_timeline) from Twitter Api 1.1 based on Zend Framework (I am using Zend Framework 1.12.3 here).
+This is a small examples to retrieve user time line data (user_timeline) from Twitter Api 1.1 based on Zend Framework (I am using Zend Framework 1.12.3 here).
 
 There are two types of examples.
 
