@@ -29,7 +29,7 @@ This is normal procedure. First, get a request token to Twitter, redirect a user
 
 2. Create your access token in Details tab. See [here](http://www.convexstyle.com/github/create_accessToken.png "The image of creating access token") in details.
 
-3. Once you create access token and access token secret, copy and paste **access token**, **access token secret**, **consumer key** and **consumer secret** to **oauth.accessToken**, **oauth.accessTokenSecret**, **oauth.consumerKey**, and **oauth.consumerSecret** in app.ini. (_application/configs/app.ini).
+3. Once you create access token and access token secret, rename _application/configs/app-sample.ini to _application/configs/app.ini and copy and paste **access token**, **access token secret**, **consumer key** and **consumer secret** to **oauth.accessToken**, **oauth.accessTokenSecret**, **oauth.consumerKey**, and **oauth.consumerSecret** in app.ini.
 
 4. Get the **Twitter User ID** you want to get the data from. If you don't know what your Twitter User ID is, access [gettwitterid.com](http://gettwitterid.com/ "gettwitterid.com") and find it out.
 
